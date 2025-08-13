@@ -1,0 +1,5 @@
+transactionId,userId,date,amount,description
+tx1,u123,2025-08-08,125.50,Salary
+tx2,u123,2025-08-07,20.00,Yesterday purchase
+tx3,u456,2025-08-08,-35.99,Groceries
+tx4,u456,2025-08-08,100.00,Refund
